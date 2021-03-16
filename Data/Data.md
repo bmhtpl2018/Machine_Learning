@@ -1,1 +1,1 @@
-# Data used are ihn this folder.
+# Data used are in this folder.
